@@ -1,0 +1,4 @@
+name: ServerPlugin
+version: 0.1
+main: server.plugin.ServerPlugin
+depend: [WorldEdit, TagAPI, RemoteEntities, ProtocolLib, PacketWrapper]
